@@ -22,7 +22,8 @@
 >ROUTING COST: 540
 
 ## Screenshot
-![Screenshot_1](https://raw.githubusercontent.com/Toliann/Zenit/main/screenshot/1.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Argent/main/screenshoot/1.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Argent/main/screenshoot/2.png)
 
 #
 > Added LevelTag for compatibility with the Celestial Tint(sfDesat) mod
